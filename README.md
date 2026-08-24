@@ -41,11 +41,3 @@ Tools Used-
 
 * Power BI
 * Microsoft Excel
-
-Dashboard Screenshot-
-
-(Add here)
-
-Links
-
-* Video: (Add link)
